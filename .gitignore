@@ -4,3 +4,6 @@
 /CSV/*.csv
 /CSV/tsc
 /CSVz
+.DS_Store
+.ipynb_checkpoints/
+default*
